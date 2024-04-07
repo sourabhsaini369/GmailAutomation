@@ -36,9 +36,12 @@ public class BaseLib {
 	@AfterMethod
 	public void getTestResult(ITestResult result) {
 		
+
 		driver.quit();
 		
 		log.info("This is commit 3"  );
+	//	driver.quit();
+
 	}
 
 	public BaseLib() {
