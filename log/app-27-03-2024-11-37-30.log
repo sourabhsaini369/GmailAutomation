@@ -1,0 +1,7 @@
+11:37:30.266 [main]INFO  Gmail inbox test - ************verifyGmailContnt testcase started **************
+11:37:30.888 [main]INFO  Gmail inbox test - userame testsourabh406@gmail.com has been enter
+11:37:31.317 [main]INFO  Gmail inbox test - Clicked on next button
+11:37:33.718 [main]INFO  Gmail inbox test - password Abcd@1234 has been enter
+11:37:34.090 [main]INFO  Gmail inbox test - Clicked on next button
+11:38:24.661 [main]INFO  Gmail inbox test - gmail icon is not visible
+11:38:24.670 [main]ERROR Gmail inbox test - LoggedIn Unsuccessfull

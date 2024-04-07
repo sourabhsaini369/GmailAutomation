@@ -1,0 +1,6 @@
+11:59:08.606 [main]INFO  Gmail inbox test - ************verifyGmailContnt testcase started **************
+11:59:09.139 [main]INFO  Gmail inbox test - userame testsourabh406@gmail.com has been enter
+11:59:09.574 [main]INFO  Gmail inbox test - Clicked on next button
+11:59:13.276 [main]INFO  Gmail inbox test - password Abcd@1234 has been enter
+11:59:13.865 [main]INFO  Gmail inbox test - Clicked on next button
+11:59:23.675 [main]INFO  Gmail inbox test - Logged in Successfull

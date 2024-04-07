@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-27T12:25:25 IST" name="Suite" finished-at="2024-03-27T12:26:00 IST" duration-ms="34991">
+    <groups>
+    </groups>
+    <test started-at="2024-03-27T12:25:25 IST" name="Test" finished-at="2024-03-27T12:26:00 IST" duration-ms="34991">
+      <class name="TestScript.gmailTest">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:TestScript.gmailTest@22e357dc]" started-at="2024-03-27T12:25:25 IST" name="setUp" finished-at="2024-03-27T12:25:34 IST" duration-ms="9073" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestScript.gmailTest.verifyGmailContnt()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyGmailContnt()[pri:0, instance:TestScript.gmailTest@22e357dc]" started-at="2024-03-27T12:25:34 IST" name="verifyGmailContnt" finished-at="2024-03-27T12:26:00 IST" duration-ms="25852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGmailContnt -->
+        <test-method is-config="true" signature="getTestResult(org.testng.ITestResult)[pri:0, instance:TestScript.gmailTest@22e357dc]" started-at="2024-03-27T12:26:00 IST" name="getTestResult" finished-at="2024-03-27T12:26:00 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyGmailContnt status=SUCCESS method=gmailTest.verifyGmailContnt()[pri:0, instance:TestScript.gmailTest@22e357dc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestResult -->
+      </class> <!-- TestScript.gmailTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
