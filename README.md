@@ -1,1 +1,1 @@
-# GmailAutomation
+# GmailAutomation Scenario
