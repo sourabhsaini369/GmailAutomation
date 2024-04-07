@@ -37,6 +37,8 @@ public class BaseLib {
 	public void getTestResult(ITestResult result) {
 		
 		driver.quit();
+		
+		log.info("This is commit 3"  );
 	}
 
 	public BaseLib() {
